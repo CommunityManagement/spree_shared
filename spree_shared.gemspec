@@ -25,7 +25,7 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency 'spree_core', '~> 4.0'
   s.add_runtime_dependency 'spree_sample', '~> 4.0'
-  s.add_runtime_dependency 'apartment', '~> 0.26.1'
+  s.add_runtime_dependency 'apartment'
 
   s.add_development_dependency 'rspec-rails'
   s.add_development_dependency 'sqlite3'
